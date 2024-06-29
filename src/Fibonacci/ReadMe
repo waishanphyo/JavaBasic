@@ -1,0 +1,7 @@
+In fibonacci series, next number is the sum of previous two numbers
+0 1  1     2   3 5 8 13
+x y  x+y
+
+Printed x y
+Total-2
+n-2
