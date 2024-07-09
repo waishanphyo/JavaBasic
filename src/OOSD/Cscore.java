@@ -7,5 +7,7 @@ public class Cscore {
         sc.decrease();
         sc.increase();
         System.out.print(sc.getScore());
+        System.out.print(sc.data);
+        System.out.print(sc.data);
     }
 }
